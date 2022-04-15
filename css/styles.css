@@ -1,0 +1,166 @@
+body{
+  margin:0;
+  background-color:#EEEEEE;
+  width: auto;
+}
+.menu{
+  display: inline;
+}
+.second-block{
+  margin:0;
+  text-align: center;
+  background-color:#C1CFC0;
+  display: block;
+  margin-bottom: 70px;
+
+}
+.virus{
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+}
+.para1{
+  font-size: 20px;
+  color: #11324D;
+font-family:lucida handwritting, cursive;
+}
+a{
+  font-size: 30px;
+  margin-top: 5px;
+ margin-right: 27px;
+ margin-left: 27px;
+ color: #0F044C;
+}
+.first-block{
+
+  margin-top: 15px;
+}
+.head1{
+  color:#11324D;
+}
+.doc{
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+}
+.third-block{
+  margin:0;
+  text-align: center;
+  background-color:#F4C7AB;
+  display: block;
+  margin-bottom: 70px;
+}
+.head2{
+  color: #9C3D54;
+}
+.para2{
+color: #9C3D54;
+font-size: 20px;
+font-family:lucida handwritting, cursive;
+}
+.sac{
+  margin-top: 50px;
+  height: 200px;
+  width: 200px;
+}
+.fourth-block{
+  margin:0;
+  text-align: center;
+  background-color:#C1CFC0;
+  display: block;
+  margin-bottom: 70px;
+}
+.head3{
+  color: #11324D;
+}
+.para3{
+color: #11324D;
+font-size: 20px;
+font-family:lucida handwritting, cursive;
+}
+.fifth-block{
+  display: block;
+  text-align: center;
+  margin-bottom: 70px;
+  background-color:#F4C7AB;
+}
+.video{
+  height:400px;
+  width: 400px;
+  margin-top: -80px;
+}
+.head4{
+  color: #9C3D54;
+}
+.para4{
+color: #9C3D54;
+font-size: 20px;
+font-family:lucida handwritting, cursive;
+}
+.sixth-block{
+  margin:0;
+  text-align: center;
+  background-color:#C1CFC0;
+  display: block;
+  margin-bottom: 70px;
+}
+td{
+  color:#11324D;
+  font-size: 30px;
+}
+th{
+color:#11324D;
+font-size: 30px;
+}
+.head5{
+  color:#11324D;
+}
+.final-block{
+  margin:0;
+  text-align: center;
+  background-color:#B2B1B9;
+  display: block;
+  margin-bottom: 70px;
+}
+.tree{
+  position: relative;
+  height: 300px;
+  width: 300px;
+  top:185px;
+
+}
+.cloud{
+  position: relative;
+  right: 600px;
+  bottom: 500px;
+  height: 200px;
+  width: 200px;
+
+}
+.cloud2{
+  position: relative;
+  left:400px;
+  bottom: 500px;
+  height: 200px;
+  width: 200px;
+
+}
+.head{
+  position: relative;
+  color: #DDDDDD;
+  font-family:lucida handwritting, cursive;
+  top:300px;
+}
+hr{
+  position: relative;
+}
+.hr1{
+  top:400px
+}
+
+  .hr2{
+    top:-100px;
+  }
+.first-block{
+  position: fixed;
+}
